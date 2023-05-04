@@ -13,6 +13,7 @@ app.use(
             "http://localhost:5173",
             "http://25.39.126.166:5173",
             "http://10.0.254.2:5173",
+            "https://yowportfolio.netlify.app",
         ],
     })
 )
